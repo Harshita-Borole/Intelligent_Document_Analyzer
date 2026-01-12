@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+ENV/
+env/
+
+# Uploads
+backend/uploads/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+
+# VS Code
+.vscode/
+
+# FAISS / ML
+*.index
+*.pkl
+*.bin
