@@ -29,6 +29,13 @@ Knowledge extraction from PDFs
 Research paper analysis
 Enterprise document assistants
 
-🔑 Key Concepts Used
 
-Retrieval-Augmented Generation (RAG), Document Chunking, Sentence Embeddings, Semantic Search, FAISS, Large Language Models (LLMs)
+🔑 Key Concepts Used
+Retrieval-Augmented Generation (RAG)
+Document Chunking
+Sentence Embeddings
+Semantic Search
+FAISS Vector Database
+Large Language Models (LLMs)
+Natural Language Processing (NLP)
+
